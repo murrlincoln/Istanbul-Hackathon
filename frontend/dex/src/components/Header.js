@@ -21,9 +21,7 @@ function Header() {
           <img src={Eth} alt="eth" className="eth" />
           Ethereum
         </div>
-        <div className="connectButton">
-          Connect
-        </div>
+        <w3m-button />
       </div>
     </header>
   )
